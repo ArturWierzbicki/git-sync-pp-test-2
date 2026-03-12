@@ -24,7 +24,20 @@
     "editable": true,
     "fiscalYearStartMonth": 0,
     "graphTooltip": 0,
-    "links": [],
+    "links": [
+      {
+        "asDropdown": false,
+        "icon": "external link",
+        "includeVars": false,
+        "keepTime": false,
+        "tags": [],
+        "targetBlank": true,
+        "title": "Source (GitHub)",
+        "tooltip": "View source file in repository",
+        "type": "link",
+        "url": "https://github.com/ArturWierzbicki/git-sync-pp-test-2/blob/main/grafanatftest/new-dashboard-2026-03-12-kiyn0.json"
+      }
+    ],
     "panels": [
       {
         "datasource": {
@@ -90,7 +103,7 @@
         "gridPos": {
           "h": 8,
           "w": 12,
-          "x": 0,
+          "x": 6,
           "y": 0
         },
         "id": 1,
