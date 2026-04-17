@@ -671,7 +671,7 @@
                             },
                             {
                               "color": "yellow",
-                              "value": 500
+                              "value": 450
                             },
                             {
                               "color": "red",
@@ -827,6 +827,18 @@
                       {
                         "id": "custom.width",
                         "value": 150
+                      }
+                    ]
+                  },
+                  {
+                    "matcher": {
+                      "id": "byName",
+                      "options": "Delta vs baseline (%)"
+                    },
+                    "properties": [
+                      {
+                        "id": "custom.width",
+                        "value": 183
                       }
                     ]
                   }
