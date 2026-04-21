@@ -671,7 +671,7 @@
                             },
                             {
                               "color": "yellow",
-                              "value": 700
+                              "value": 500
                             },
                             {
                               "color": "red",
@@ -940,7 +940,20 @@
         ]
       }
     },
-    "links": [],
+    "links": [
+      {
+        "asDropdown": false,
+        "icon": "external link",
+        "includeVars": false,
+        "keepTime": false,
+        "tags": [],
+        "targetBlank": true,
+        "title": "Source (GitHub)",
+        "tooltip": "View source file in repository",
+        "type": "link",
+        "url": "https://github.com/ArturWierzbicki/git-sync-pp-test-2/blob/main/x/new-dashboard-2026-04-22-7wror.json"
+      }
+    ],
     "liveNow": false,
     "preload": false,
     "tags": [],
